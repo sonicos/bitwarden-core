@@ -36,7 +36,7 @@ then
 fi
 
 SCRIPTS_DIR="$OUTPUT/scripts"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/bitwarden/core/master"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/sonicos/bitwarden-core/master"
 COREVERSION="1.23.0"
 WEBVERSION="2.2.0"
 
